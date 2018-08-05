@@ -1,4 +1,4 @@
 ﻿public enum Scenes
 {
-    MainMenu
+    StartScreen
 }
