@@ -7,6 +7,9 @@ Folder structure
 +---Editor
 ¦       Contains scripts that override the default unity editor
 ¦       
++---Fonts
+¦       Contains all the fonts used by the game
+¦       
 +---Materials
 ¦       Contains all (physics) materials
 ¦       
