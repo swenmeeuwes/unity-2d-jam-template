@@ -16,6 +16,9 @@ Folder structure
 +---Plugins
 ¦       Contains plugins from the asset store
 ¦    
++---Prefabs
+¦       Contains all prefabs used by the game
+¦    
 +---Presets
 ¦       Presets which define default settings for e.g. import settings
 ¦     
