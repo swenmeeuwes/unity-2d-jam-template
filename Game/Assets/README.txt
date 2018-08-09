@@ -3,6 +3,9 @@ Folder structure
 ¦   
 +---Animations
 ¦       Contains animation controllers and animations for the game
+¦      
++---Audio
+¦       Contains all audio for the game
 ¦       
 +---Editor
 ¦       Contains scripts that override the default unity editor
