@@ -1,4 +1,6 @@
 ﻿public enum Scenes
 {
-    StartScreen
+    StartScreen,
+    LoadingScreen,
+    Game
 }
